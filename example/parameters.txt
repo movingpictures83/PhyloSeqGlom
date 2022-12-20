@@ -1,0 +1,4 @@
+OTU	output.otu.csv
+TAX	output.tax.csv
+META	output.meta.csv
+LEVEL	Rank2
